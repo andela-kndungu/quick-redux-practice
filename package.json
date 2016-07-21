@@ -1,0 +1,14 @@
+{
+  "name": "quick-redux",
+  "version": "1.0.0",
+  "description": "Basic redux app",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "",
+  "license": "ISC"
+}
